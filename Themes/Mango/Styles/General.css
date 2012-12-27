@@ -39,17 +39,17 @@ body  {
   line-height: 1; 
   height: 100%;
   font-size: 0.846em;
-  color: #fff; 
+  color: #999; 
   background:url('../Content/Images/shadow.png') #000 top center no-repeat;
   font-family: 'Segoe WPC', Tahoma, Arial, Verdana, sans-serif;
 }
 
 /* Headings */
-h1,h2,h3,h4,h5,h6 { font-weight: normal; margin:.6em 0; font-family:'Segoe WPC'; }
+h1,h2,h3,h4,h5,h6 { font-weight: normal; margin:.6em 0; font-family:'Segoe WPC'; color: #fff }
 
-h1 { font-size: 2em; }
-h2 { font-size: 1.231em; }
-h3 { font-size: 1.154em; }
+h1 { font-size: 3em; }
+h2 { font-size: 2em; }
+h3 { font-size: 1.4em; }
 h4 { font-size: 1.077em; }
 h5 { font-size: 1em; }
 h6 { font-size: 1em; }
