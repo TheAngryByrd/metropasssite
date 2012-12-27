@@ -4,7 +4,7 @@
     <ExtensionId>Mango</ExtensionId>
     <LoaderName>DynamicExtensionLoader</LoaderName>
     <VirtualPath>~/Themes/Mango/Mango.csproj</VirtualPath>
-    <Hash>48e041d67b9d3acb</Hash>
+    <Hash>48e0420e9f0ac68b</Hash>
   </Dependency>
   <Dependency>
     <ExtensionId>Markdown</ExtensionId>
