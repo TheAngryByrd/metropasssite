@@ -349,6 +349,12 @@
     </References>
   </Dependency>
   <Dependency>
+    <ModuleName>Piedone.TargetBlank</ModuleName>
+    <VirtualPath>~/Modules/Piedone.TargetBlank/Piedone.TargetBlank.csproj</VirtualPath>
+    <LoaderName>DynamicExtensionLoader</LoaderName>
+    <References />
+  </Dependency>
+  <Dependency>
     <ModuleName>Reports</ModuleName>
     <VirtualPath>~/Core/Reports</VirtualPath>
     <LoaderName>CoreExtensionLoader</LoaderName>
