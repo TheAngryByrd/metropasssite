@@ -32,9 +32,12 @@ Pixels     EMs         Percent Points
 23px     1.769em     176.9%     17pt
 24px     1.846em     184.6%     18pt
 */
-
+html{
+    height: 100%
+}
 body  {
   line-height: 1; 
+  height: 100%;
   font-size: 0.846em;
   color: #fff; 
   background:url('../Content/Images/shadow.png') #000 top center no-repeat;
